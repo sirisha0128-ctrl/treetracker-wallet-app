@@ -1,3 +1,26 @@
+# [1.1.0](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/compare/v1.0.0...v1.1.0) (2026-04-21)
+
+
+### Bug Fixes
+
+* **bdd:** add missing login and register report videos ([0478752](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/0478752cb2b937416435420c87d327d6db64ddcc))
+* **bdd:** cache chromedriver to avoid repeated downloads ([ecffe81](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/ecffe81f6ffcab7253e41cd1f842ad010a8dcbcd))
+* **bdd:** run chrome headless ([abd1453](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/abd14536844625998df50c49623493c3b2d241cd))
+* **bdd:** update register and wallet selectors ([ff9c429](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/ff9c429a0e4aa6be604418dcc46e79b59988ea52))
+* **bdd:** update wdio mobile imports for NodeNext resolution ([76cf733](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/76cf733b78d79034c917d2126b83c9a32ed2cbdb))
+* **ci:** fix env variable names in PR CI workflows [skip ci] ([4651d27](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/4651d27748590db0855557343c2867097702d342))
+* **native:** implement home tour status check and persistence ([904e654](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/904e654be128b12c18c889d2f2e8e3d932a86d16))
+* **user:** improve login and register error handling ([31d9741](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/31d9741c323d1a4b3f087d14296c3c642451428d))
+* **web:** remove invalid cypress type import ([d491021](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/d49102187ccefec352b54400a31c5c4d0c8d2cbf))
+* **web:** stabilize wallet Cypress tests and align wallet create flow ([875af37](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/875af3735536569694f33a6d4ce3b06b1c410d37))
+
+
+### Features
+
+* **bdd:** add platform-specific report directories (web/android/ios) ([9e965dd](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/9e965dd3f493f0613d3c7a6c6464d2dc191c6f46))
+* **native:** add QR code scanning functionality with camera and gallery support ([5230483](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/5230483abfdbae7df1ea1b9dd8abcf9566ae074d))
+* **native:** add wallet screen header ([801ef46](https://github.com/sirisha0128-ctrl/treetracker-wallet-app/commit/801ef46b768d2314135062a7d5d7024fb09a8056))
+
 # 1.0.0 (2026-03-17)
 
 
